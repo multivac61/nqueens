@@ -1,4 +1,4 @@
-## The N Queens Problem
+## The Problem with N Queens
 Few implementations in Python for solving the N-Queens problem
 
 ## Installation
